@@ -26,29 +26,60 @@
 
 ## 📱 Live App Screenshots & Interface Showcase
 
-<p align="center">
-  <img src="assets/screenshots/welcome.jpg" width="31%" alt="Welcome Screen" />
-  &nbsp;
-  <img src="assets/screenshots/register.jpg" width="31%" alt="Register Screen" />
-  &nbsp;
-  <img src="assets/screenshots/projects.jpg" width="31%" alt="Projects Dashboard" />
-</p>
-<p align="center">
-  <em><b>Welcome Screen</b> (3D Floating Tiles) &nbsp;•&nbsp; <b>Register Screen</b> (Glassmorphic) &nbsp;•&nbsp; <b>Projects Dashboard</b> (Neumorphic)</em>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="assets/screenshots/kanban_board.jpg" width="31%" alt="Kanban Board" />
-  &nbsp;
-  <img src="assets/screenshots/create_task.jpg" width="31%" alt="Neumorphic Task Dialog" />
-  &nbsp;
-  <img src="assets/screenshots/sync_activity.jpg" width="31%" alt="Sync & Mutation Queue" />
-</p>
-<p align="center">
-  <em><b>Kanban Board</b> (Multi-Column Drag & Drop) &nbsp;•&nbsp; <b>Create Task Modal</b> (Tactile Wells) &nbsp;•&nbsp; <b>Sync & Activity</b> (Offline Queue)</em>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="assets/screenshots/welcome.jpg">
+        <img src="assets/screenshots/welcome.jpg" width="100%" alt="Welcome Screen" />
+      </a>
+      <br />
+      <b>🌟 Welcome Screen</b><br />
+      <sub>3D Dynamic Floating Orbit & Brand Logo</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="assets/screenshots/register.jpg">
+        <img src="assets/screenshots/register.jpg" width="100%" alt="Register Screen" />
+      </a>
+      <br />
+      <b>🔐 Frosted Glass Register</b><br />
+      <sub>Multi-Tenant Auth & Live Validation</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="assets/screenshots/projects.jpg">
+        <img src="assets/screenshots/projects.jpg" width="100%" alt="Projects Dashboard" />
+      </a>
+      <br />
+      <b>🏢 Neumorphic Projects</b><br />
+      <sub>Live Workspaces, Stats & Velocity Bars</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="assets/screenshots/kanban_board.jpg">
+        <img src="assets/screenshots/kanban_board.jpg" width="100%" alt="Kanban Board" />
+      </a>
+      <br />
+      <b>📋 Multi-Column Kanban</b><br />
+      <sub>Drag & Drop, Color Priority & Filters</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="assets/screenshots/create_task.jpg">
+        <img src="assets/screenshots/create_task.jpg" width="100%" alt="Create Task Dialog" />
+      </a>
+      <br />
+      <b>✨ Tactile Task Modal</b><br />
+      <sub>Sunken Input Wells & Priority Chips</sub>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="assets/screenshots/sync_activity.jpg">
+        <img src="assets/screenshots/sync_activity.jpg" width="100%" alt="Sync & Activity" />
+      </a>
+      <br />
+      <b>⚡ Offline Sync Queue</b><br />
+      <sub>Real-time WebSocket & FIFO Mutations</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
